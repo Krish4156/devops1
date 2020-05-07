@@ -1,0 +1,12 @@
+YAML_CICD_aspnetCore
+(Azure DevOps, YAML, Asp.Net-Core). This is a sample code for Implementation of Continuous Integration (CI) using YAML for ASP.Net Core DevOps.
+
+Following Steps in YAML file:-
+
+Add Machine to build
+Define variables
+Restore Nuget Packages in Project
+Build Asp.net core project
+Publish asp.net core project
+Zip artifact in given folder location.
+We can download this artifact manually also to check packages n files inside zip.
